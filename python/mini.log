@@ -1,0 +1,5 @@
+[2023-09-20 18:44:51,351][DEBUG   |ex02_11.py:17] >>> it's debug log
+[2023-09-20 18:44:51,351][INFO    |ex02_11.py:18] >>> it's info log
+[2023-09-20 18:44:51,352][WARNING |ex02_11.py:19] >>> it's warning log
+[2023-09-20 18:44:51,352][ERROR   |ex02_11.py:20] >>> it's error log
+[2023-09-20 18:44:51,353][CRITICAL|ex02_11.py:21] >>> it's critical log
