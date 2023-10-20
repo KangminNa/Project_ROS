@@ -1,4 +1,5 @@
 """ex02_11.py"""
+"""스트림, 파일 핸들러, Formatter"""
 import logging
 
 logger = logging.getLogger(__name__)
